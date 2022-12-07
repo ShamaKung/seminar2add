@@ -1,6 +1,4 @@
-﻿
-Console.WriteLine("Введите координаты точки А: ");
-int searchCurrent;
+﻿Console.WriteLine("Введите координаты точки А: ");
 int[] A = new int[3];
 
 for(int i = 0; i < A.Length; i++)
