@@ -1,8 +1,8 @@
 ﻿void Cube (int[] arr, int len)
 {
-    for(int i=0; i < len; i++)
+    for(int i = 0; i < len; i++)
     {
-        double cubeNumber = Math.Pow(arr[i],3);
+        double cubeNumber = Math.Pow(arr[i], 3);
         Console.WriteLine(cubeNumber);
     }
 }
